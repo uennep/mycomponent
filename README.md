@@ -1,0 +1,2 @@
+# mycomponent
+buttons, heads, footers
